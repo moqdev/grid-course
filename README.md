@@ -1,5 +1,5 @@
-# GRID Course
+# CSS GRID Course
 
-This Grid course will teach you all of the fundamentals of CSS Grid | CSS Grid Course 2022
+This CSS Grid course will teach you all of the fundamentals of CSS Grid | CSS Grid Course 2022
 
-![CSS Grid Course 2022](/im "CSS Grid Course")
+![CSS Grid Course 2022](./project/images/screenshot.png "CSS Grid Course")
